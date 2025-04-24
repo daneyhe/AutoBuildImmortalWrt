@@ -41,8 +41,6 @@ PACKAGES="$PACKAGES luci-i18n-n2n-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-openvpn-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-alist-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
